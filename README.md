@@ -1,5 +1,8 @@
-E-R Diagram
+**E-R Diagram**
 ![Er](https://github.com/vinaykumar231/Flexmoney_Assignment1/assets/87187409/38bc206a-b5be-40c1-9d01-38d82135693d)
+
+User Interface
+![image](https://github.com/vinaykumar231/Flexmoney_Assignment1/assets/87187409/3b6a7db7-b0e8-47d7-b274-08a7c1e7a1de)
 
 
 
