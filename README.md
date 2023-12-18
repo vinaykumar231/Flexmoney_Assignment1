@@ -1,3 +1,12 @@
+E-R Diagram
+![Er](https://github.com/vinaykumar231/Flexmoney_Assignment1/assets/87187409/38bc206a-b5be-40c1-9d01-38d82135693d)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
